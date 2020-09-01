@@ -77,13 +77,13 @@
             <groupId>org.ow2.asm</groupId>
             <artifactId>asm</artifactId>
             <optional>true</optional>
-            <version>8.0.1</version>
+            <version>9.0-beta</version>
         </dependency>
         <dependency>
             <groupId>org.ow2.asm</groupId>
             <artifactId>asm-commons</artifactId>
             <optional>true</optional>
-            <version>8.0.1</version>
+            <version>9.0-beta</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
